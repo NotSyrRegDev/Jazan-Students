@@ -1,7 +1,7 @@
 # Jazan Students Web Application
 ### Landing Home Page
 
-![N|Solid]([https://i.ibb.co/8dW9bB9/homePage.png](https://i.ibb.co/4dTyXbC/Jazan-Student-PNG.png))
+![N|Solid](https://i.ibb.co/4dTyXbC/Jazan-Student-PNG.png)
 
 
 
